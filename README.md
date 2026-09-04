@@ -1,3 +1,5 @@
+![Banner](https://raw.githubusercontent.com/ciociolacarmine28-lgtm/ciociolacarmine28-lgtm/main/Gemini_Generated_Image_769af8769af8769a.jpg)
+
 <p align="center">
   <img src="Gemini_Generated_Image_769af8769af8769a.jpg" alt="Header Banner" width="100%">
 </p>
