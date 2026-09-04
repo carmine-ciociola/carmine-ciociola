@@ -1,4 +1,4 @@
-# Ciao, sono Carmine Ciociola! 👋
+# Ciao, sono Carmine Ciociola! 
 ### *Hi, I'm Carmine Ciociola!*
 
 🎓 **Studente Magistrale in Automation and Robotics Engineering** @ Politecnico di Bari  
