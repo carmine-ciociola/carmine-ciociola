@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Gemini_Generated_Image_769af8769af8769a.png" alt="Header Banner" width="100%">
+  <img src="Gemini_Generated_Image_769af8769af8769a.jpg" alt="Header Banner" width="100%">
 </p>
 
 # Ciao, sono Carmine Ciociola! 
