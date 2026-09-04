@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Header Banner" width="100%">
+</p>
+
 # Ciao, sono Carmine Ciociola! 
 ### *Hi, I'm Carmine Ciociola!*
 
